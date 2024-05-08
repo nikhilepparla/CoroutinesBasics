@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coroutine</string>
+    <string name="txt1">Text 1</string>
+    <string name="txt2">Text 2</string>
+</resources>
