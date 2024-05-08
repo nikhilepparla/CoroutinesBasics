@@ -1,3 +1,2 @@
-Below is the Sample of the App
-
-![Demo](https://github.com/nikhilepparla/C-Topics/assets/77914314/b6144ea9-75aa-4331-a584-5ab7f614b81c)
+                             Below is the Sample of the App
+![Demo](https://github.com/nikhilepparla/CoroutinesBasics/assets/77914314/ab61feb4-22c5-4021-be76-c113928f4d8f)
